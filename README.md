@@ -1,0 +1,2 @@
+# Powerpoint_Real_Time_Clock
+在PPT的VBA中实现了一旦开始放映幻灯片就自动运行的数字时钟
